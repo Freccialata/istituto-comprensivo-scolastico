@@ -1,0 +1,24 @@
+body {
+	font-family: verdana, helvetica, sans;
+}
+
+header {
+	background-color: #FF9A49;
+}
+
+footer {
+	background-color: #FF9A49;
+	height: 6ex;
+}
+
+#homeButton {
+	width: 12ex;
+}
+
+table {
+	border: solid 0.4ex #562600;
+}
+
+#tabInTesta {
+	border: none; 
+}
