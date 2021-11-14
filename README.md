@@ -4,7 +4,7 @@
 
 *A.A. 2018/2019*
 
-*Badi di Dati e web*
+*Basi di Dati e Web*
 
 *Gianluca Rubino, Liliana Hu*
 
